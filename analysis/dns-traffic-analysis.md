@@ -125,7 +125,13 @@ An attacker on the same network can:
 
 ## 📸 Screenshots
 
-> *(Screenshots stored in `/screenshots/` folder)*
+![nslookup Terminal Output](../screenshots/Screenshot 2026-03-23 153241.png)
+
+![DNS Filter Applied](../screenshots/Screenshot 2026-03-23 154835.png)
+
+![CNAME Chain](../screenshots/Screenshot 2026-03-23 162920.png)
+
+![ARP and DNS Traffic Overview](../screenshots/Screenshot 2026-03-23 163921.png)
 
 ---
 
