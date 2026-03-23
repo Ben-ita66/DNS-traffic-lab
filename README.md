@@ -52,4 +52,4 @@ DNS-traffic-lab/
 ---
 
 > Part of my ongoing cybersecurity learning journey. Documenting everything in public.  
-> Follow along on [LinkedIn](https://www.linkedin.com/in/benitanwabueze) | [X @Ogechee_](https://x.com/Ogechee_)
+> Follow along on [LinkedIn](https://www.linkedin.com/in/nwabueze-benita?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1zwVOhnbRvimEEUYMqU7UQ%3D%3D) | [X @Ogechee_](https://x.com/Ogechee_)
